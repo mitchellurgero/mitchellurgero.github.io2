@@ -35,6 +35,11 @@ const config = {
   skills: [
     'PHP',
     'Node.js',
+    'C#',
+    'VB.NET',
+    'RPi',
+    'Linux',
+    'MacOS',
     'MySQL',
     'PostgreSQL',
     'Git',
